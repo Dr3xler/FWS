@@ -8,6 +8,8 @@ cd "Internet"
 Rem Firefox Version 92.0
 curl.exe -o "firefox.exe" "https://download-installer.cdn.mozilla.net/pub/firefox/releases/92.0/win64/de/Firefox%20Setup%2092.0.exe"
 Rem chrome does not provide a direct download link at this point.
+Rem ...
+Rem neither do firefox nor bitdefender...
 cd ..
 mkdir "Security"
 cd "Security"
